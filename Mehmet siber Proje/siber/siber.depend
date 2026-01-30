@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1769755451 source:c:\users\mehmet akif\onedrive\masaüstü\code blocks dosyalar\siber\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdint>
+
